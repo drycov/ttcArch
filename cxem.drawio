@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T06:46:08.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="t-11YY_Pf4fv70sxBVRP" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-14T06:46:53.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TecASjl8AGS1UNCFaHOW" version="21.3.8" type="github" pages="3">
   <diagram id="2Bio6661NEroopxspY8U" name="Расположеление систем">
     <mxGraphModel dx="1147" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="6uK7TEgUKnYJHfyEASsw-9" value="Сервер времени.&lt;br&gt;Предложение: Используем имеющиеся.&lt;br&gt;IP:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495.51" y="299.5" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6uK7TEgUKnYJHfyEASsw-10" value="Сервер .&lt;br&gt;Предложение: Используем имеющиеся.&lt;br&gt;IP:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-10" value="Сервер архивации конфигураций .&lt;br&gt;Предложение: Используем имеющиеся.&lt;br&gt;IP:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495.51" y="377.5" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
