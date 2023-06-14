@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T06:46:07.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="O9tF6CpWPrOTclkLtGhc" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-14T06:46:08.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="t-11YY_Pf4fv70sxBVRP" version="21.3.8" type="github" pages="3">
   <diagram id="2Bio6661NEroopxspY8U" name="Расположеление систем">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-1" value="Расположеление систем" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="420" y="10" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="50" width="390" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="50" width="370" height="730" as="geometry" />
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425.51" y="40" width="370" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-37" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-37" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" parent="1" vertex="1">
           <mxGeometry x="20" y="60" width="65.51" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-39" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-39" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" parent="1" vertex="1">
           <mxGeometry x="430" y="60" width="65.51" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-40" value="Системы на филиалах" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-40" value="Системы на филиалах" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="190" y="60" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-41" value="Системы в ЦА" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-41" value="Системы в ЦА" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="60" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-42" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_management" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-42" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_management" parent="1" vertex="1">
           <mxGeometry x="20" y="140" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-43" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.security" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-43" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.security" parent="1" vertex="1">
           <mxGeometry x="430" y="141" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-44" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-44" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard" parent="1" vertex="1">
           <mxGeometry x="431" y="220" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-45" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.solutions" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-45" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.solutions" parent="1" vertex="1">
           <mxGeometry x="432" y="292" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-47" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.config_assessment" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-47" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.config_assessment" parent="1" vertex="1">
           <mxGeometry x="432" y="370" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.diagnostics" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.diagnostics" parent="1" vertex="1">
           <mxGeometry x="20" y="210" width="50" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
@@ -91,20 +91,17 @@
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-32" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/School_Building.svg;fillColor=#505050;strokeColor=none;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="381" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-51" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.diagnostics" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-51" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.diagnostics" parent="1" vertex="1">
           <mxGeometry x="830" y="299.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-53" value="Поллер на филиале" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-53" value="Поллер на филиале" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="299.5" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-54" value="Лог-сервер.&lt;br&gt;Предложение: Syslog + Graylog" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-54" value="Лог-сервер.&lt;br&gt;Предложение: Syslog + Graylog" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="77.75999999999999" y="141" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6uK7TEgUKnYJHfyEASsw-2" value="Поллер филиала.&lt;br&gt;Предложение: Librenms" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="85.50999999999999" y="212" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FGwDX_GFiJZO-p7cCFNL-1" value="TACACS / RedHat 389 DS / RADIUS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="150" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6uK7TEgUKnYJHfyEASsw-3" value="Сервер централизированной авторизации, аутентификации и аккаунтинга&lt;br&gt;Предложение:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="150" width="230" height="30" as="geometry" />
@@ -115,14 +112,20 @@
         <mxCell id="6uK7TEgUKnYJHfyEASsw-6" value="Сервер централизированной авторизации, аутентификации и аккаунтинга&lt;br&gt;Предложение:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495.51" y="440" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FGwDX_GFiJZO-p7cCFNL-2" value="10.121.131.2&lt;br&gt;10.127.41.2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="560" width="230" height="30" as="geometry" />
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-8" value="Система мониторинга.&lt;br&gt;Предложение: Librenms" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495.51" y="225" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-9" value="Сервер времени.&lt;br&gt;Предложение: Используем имеющиеся.&lt;br&gt;IP:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495.51" y="299.5" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-10" value="Сервер .&lt;br&gt;Предложение: Используем имеющиеся.&lt;br&gt;IP:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495.51" y="377.5" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="1IERlCJwOf2QxX1Jw3TP" name="Архитектура Систем">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +133,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ChGDDQDAuVpaKOpjL5Bo" name="Архитектура NMS">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
