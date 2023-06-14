@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T06:52:00.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jKBids76RehKl8HyKGeb" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-14T06:52:13.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xC2EHWcW2vbxAFFH0RTI" version="21.3.8" type="github" pages="3">
   <diagram id="2Bio6661NEroopxspY8U" name="Расположеление систем">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="420" y="10" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="50" width="390" height="730" as="geometry" />
+          <mxGeometry x="10" y="50" width="390" height="440" as="geometry" />
         </mxCell>
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="50" width="370" height="730" as="geometry" />
+          <mxGeometry x="420" y="50" width="370" height="440" as="geometry" />
         </mxCell>
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-37" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" parent="1" vertex="1">
           <mxGeometry x="20" y="60" width="65.51" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="20" y="210" width="50" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
-          <mxGeometry x="800" y="50" width="275" height="380" as="geometry" />
+          <mxGeometry x="800" y="50" width="275" height="440" as="geometry" />
         </mxCell>
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.config_assessment" parent="1" vertex="1">
           <mxGeometry x="825" y="97.5" width="30" height="30" as="geometry" />
