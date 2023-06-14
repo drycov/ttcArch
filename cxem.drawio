@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T06:39:15.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ixphONvrge8oluiskn-7" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-14T06:39:23.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MZKe_uww9W1229JG9iAl" version="20.2.3" type="github" pages="3">
   <diagram id="2Bio6661NEroopxspY8U" name="Расположеление систем">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="50" width="390" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="_YYpfwk1y9UyxAy4TstA-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="50" width="370" height="730" as="geometry" />
