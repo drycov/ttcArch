@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T06:46:53.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TecASjl8AGS1UNCFaHOW" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-14T06:49:22.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Jr0ja6cqtOmb7puO-VVO" version="21.3.8" type="github" pages="3">
   <diagram id="2Bio6661NEroopxspY8U" name="Расположеление систем">
-    <mxGraphModel dx="1147" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,25 +100,25 @@
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-54" value="Лог-сервер.&lt;br&gt;Предложение: Syslog + Graylog" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="77.75999999999999" y="141" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6uK7TEgUKnYJHfyEASsw-2" value="Поллер филиала.&lt;br&gt;Предложение: Librenms" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-2" value="Поллер филиала.&lt;br&gt;Предложение: Librenms" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="85.50999999999999" y="212" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6uK7TEgUKnYJHfyEASsw-3" value="Сервер централизированной авторизации, аутентификации и аккаунтинга&lt;br&gt;Предложение:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-3" value="Сервер централизированной авторизации, аутентификации и аккаунтинга&lt;br&gt;Предложение:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="150" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6uK7TEgUKnYJHfyEASsw-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.security" vertex="1" parent="1">
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.security" parent="1" vertex="1">
           <mxGeometry x="430" y="430" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6uK7TEgUKnYJHfyEASsw-6" value="Сервер централизированной авторизации, аутентификации и аккаунтинга&lt;br&gt;Предложение:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-6" value="Сервер централизированной авторизации, аутентификации и аккаунтинга&lt;br&gt;Предложение:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495.51" y="440" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6uK7TEgUKnYJHfyEASsw-8" value="Система мониторинга.&lt;br&gt;Предложение: Librenms" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-8" value="Система мониторинга.&lt;br&gt;Предложение: Librenms" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495.51" y="225" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6uK7TEgUKnYJHfyEASsw-9" value="Сервер времени.&lt;br&gt;Предложение: Используем имеющиеся.&lt;br&gt;IP:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-9" value="Сервер времени.&lt;br&gt;Предложение: Используем имеющиеся.&lt;br&gt;IP:10.121.131.2 &lt;br&gt;IP: 10.127.41.2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495.51" y="299.5" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6uK7TEgUKnYJHfyEASsw-10" value="Сервер архивации конфигураций .&lt;br&gt;Предложение: Используем имеющиеся.&lt;br&gt;IP:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6uK7TEgUKnYJHfyEASsw-10" value="Сервер архивации конфигураций .&lt;br&gt;Предложение: Используем имеющиеся.&lt;br&gt;IP:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495.51" y="377.5" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
