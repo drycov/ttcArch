@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T06:44:43.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="op-4eg2DFdDbsfxMm1_y" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-14T06:46:07.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="O9tF6CpWPrOTclkLtGhc" version="20.2.3" type="github" pages="3">
   <diagram id="2Bio6661NEroopxspY8U" name="Расположеление систем">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="6uK7TEgUKnYJHfyEASsw-6" value="Сервер централизированной авторизации, аутентификации и аккаунтинга&lt;br&gt;Предложение:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495.51" y="440" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGwDX_GFiJZO-p7cCFNL-2" value="10.121.131.2&lt;br&gt;10.127.41.2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
