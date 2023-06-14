@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T06:53:54.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sERx0FEa4UWgZ5h30p1j" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-14T08:48:44.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xRvCLkj-JSYpKgZKFVLP" version="20.2.3" type="github" pages="3">
   <diagram id="2Bio6661NEroopxspY8U" name="Расположеление систем">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-1" value="Расположеление систем" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="YRYPdflQ5GGaUgDDjJ6e-1" value="Расположение систем" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="460" y="10" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YRYPdflQ5GGaUgDDjJ6e-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -115,17 +115,17 @@
         <mxCell id="6uK7TEgUKnYJHfyEASsw-10" value="Сервер архивации конфигураций .&lt;br&gt;Предложение: Oxidezed, CBackup" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="505.51" y="377.5" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TxPnc7C__OFIgZQTiDKs-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_management" vertex="1" parent="1">
+        <mxCell id="TxPnc7C__OFIgZQTiDKs-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_management" parent="1" vertex="1">
           <mxGeometry x="440" y="430" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TxPnc7C__OFIgZQTiDKs-2" value="Лог-сервер.&lt;br&gt;Предложение: Syslog + Graylog" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TxPnc7C__OFIgZQTiDKs-2" value="Лог-сервер.&lt;br&gt;Предложение: Syslog + Graylog" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="497.76" y="431" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="1IERlCJwOf2QxX1Jw3TP" name="Архитектура Систем">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
